@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://sadio.app/assets/logo.png" width="80" alt="Sadio">
-</p>
-
 <h1 align="center">Sadio — The World's Voice Map</h1>
 
 <p align="center">
@@ -47,10 +43,6 @@ Walk through Tokyo and hear what someone whispered at that street corner. Listen
 **Your voice. Your location. The world listens.**
 
 ### ✨ Features
-
-**<p align="center">
-  <img src="https://sadio.app/assets/logo.png" width="80" alt="Sadio">
-</p>
 
 <h1 align="center">Sadio — The World's Voice Map</h1>
 
